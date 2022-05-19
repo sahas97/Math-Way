@@ -1,0 +1,42 @@
+D:\C# Aplications\WindowsFormsApplicationtry\WindowsFormsApplicationtry\bin\Debug\WindowsFormsApplicationtry.exe.config
+D:\C# Aplications\WindowsFormsApplicationtry\WindowsFormsApplicationtry\bin\Debug\WindowsFormsApplicationtry.exe
+D:\C# Aplications\WindowsFormsApplicationtry\WindowsFormsApplicationtry\bin\Debug\WindowsFormsApplicationtry.pdb
+D:\C# Aplications\WindowsFormsApplicationtry\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.Form1.resources
+D:\C# Aplications\WindowsFormsApplicationtry\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.Properties.Resources.resources
+D:\C# Aplications\WindowsFormsApplicationtry\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.csproj.GenerateResource.Cache
+D:\C# Aplications\WindowsFormsApplicationtry\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.exe
+D:\C# Aplications\WindowsFormsApplicationtry\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.pdb
+D:\C# Aplications\WindowsFormsApplicationtry\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.Form2.resources
+D:\C# Aplications\WindowsFormsApplicationtry\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.Form3.resources
+D:\C# Aplications\WindowsFormsApplicationtry\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.Form4.resources
+D:\C# Aplications\WindowsFormsApplicationtry\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.csprojResolveAssemblyReference.cache
+D:\C# Aplications\WindowsFormsApplicationtry\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.FormAbout.resources
+D:\C# Aplications\WindowsFormsApplicationtry\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.Splash.resources
+D:\C# Aplications\Math Way\WindowsFormsApplicationtry\bin\Debug\WindowsFormsApplicationtry.exe.config
+D:\C# Aplications\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.exe
+D:\C# Aplications\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.pdb
+D:\C# Aplications\Math Way\WindowsFormsApplicationtry\bin\Debug\WindowsFormsApplicationtry.exe
+D:\C# Aplications\Math Way\WindowsFormsApplicationtry\bin\Debug\WindowsFormsApplicationtry.pdb
+D:\C# Aplications\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.csprojResolveAssemblyReference.cache
+D:\C# Aplications\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.Form1.resources
+D:\C# Aplications\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.Form2.resources
+D:\C# Aplications\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.Form3.resources
+D:\C# Aplications\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.Form4.resources
+D:\C# Aplications\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.FormAbout.resources
+D:\C# Aplications\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.Properties.Resources.resources
+D:\C# Aplications\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.Splash.resources
+D:\C# Aplications\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.csproj.GenerateResource.Cache
+C:\Users\Sahas Uthpala\Desktop\Math Way\WindowsFormsApplicationtry\bin\Debug\WindowsFormsApplicationtry.exe.config
+C:\Users\Sahas Uthpala\Desktop\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.exe
+C:\Users\Sahas Uthpala\Desktop\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.pdb
+C:\Users\Sahas Uthpala\Desktop\Math Way\WindowsFormsApplicationtry\bin\Debug\WindowsFormsApplicationtry.exe
+C:\Users\Sahas Uthpala\Desktop\Math Way\WindowsFormsApplicationtry\bin\Debug\WindowsFormsApplicationtry.pdb
+C:\Users\Sahas Uthpala\Desktop\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.csprojResolveAssemblyReference.cache
+C:\Users\Sahas Uthpala\Desktop\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.Form1.resources
+C:\Users\Sahas Uthpala\Desktop\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.Form2.resources
+C:\Users\Sahas Uthpala\Desktop\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.Form3.resources
+C:\Users\Sahas Uthpala\Desktop\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.Form4.resources
+C:\Users\Sahas Uthpala\Desktop\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.FormAbout.resources
+C:\Users\Sahas Uthpala\Desktop\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.Properties.Resources.resources
+C:\Users\Sahas Uthpala\Desktop\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.Splash.resources
+C:\Users\Sahas Uthpala\Desktop\Math Way\WindowsFormsApplicationtry\obj\Debug\WindowsFormsApplicationtry.csproj.GenerateResource.Cache
